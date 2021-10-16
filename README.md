@@ -33,8 +33,12 @@ Our <a href="https://tradefeeds.com/api-documentation/" rel="nofollow"> documen
 
 <h2>Request and response examples</h2>
 
--- problem 
+
 
 <h2>Customer support</h2>
 
+In case that you encounter a data issue or you want to have more features added to the API, please contact us at support@tradefeeds.com.
+
 <h2>Legal</h2>
+
+<p> The use of Tradefeeds proprietary data and API database is subject to the&nbsp;<a href="https://tradefeeds.com/terms-and-conditions-on-data/">Tradefeeds Terms &amp; Conditions.</a></p>
